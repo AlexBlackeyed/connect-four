@@ -14,7 +14,7 @@ A classic board game implemented in Javascript
 
 **Frontend:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,js)]
+![My Skills](https://skillicons.dev/icons?i=html,tailwind,js)
 
     
 ## Run Locally
